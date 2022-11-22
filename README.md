@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![webstyle's github stats](https://github-readme-stats.vercel.app/api?username=farhod3787&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhod3787&layout=compact)
+![webstyle's github stats](https://github-readme-stats.vercel.app/api?username=Farrukh-Maruf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukh-Maruf&layout=compact)
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
